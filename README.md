@@ -14,4 +14,4 @@ Nexus Technologies designed and developed the complete eCommerce website, delive
 
 https://secret-nails.com/
 
-![Secret Nails eCommerce Preview](./secret-nails.png)
+![Secret Nails Preview](https://raw.githubusercontent.com/NexusTechnologiesUK/Secret-Nails-eCommerce/2e7c930f6284d7afb754c5af54938e946649b821/secret-nails.png)
